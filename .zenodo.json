@@ -1,0 +1,20 @@
+{
+  "title": "HQKM Reproducibility Package: Budgeted Quantum-Kernel Acquisition",
+  "description": "Code, configurations, tests, and result artifacts for a leakage-controlled cost-benefit benchmark of hybrid quantum-classical kernel acquisition.",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "REPLACE_WITH_FAMILY_NAME, REPLACE_WITH_GIVEN_NAME",
+      "affiliation": "REPLACE_WITH_AFFILIATION"
+    }
+  ],
+  "keywords": [
+    "quantum machine learning",
+    "quantum kernels",
+    "multiple kernel learning",
+    "Nystrom approximation",
+    "reproducibility"
+  ],
+  "access_right": "open"
+}

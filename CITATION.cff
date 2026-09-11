@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived software release and the associated manuscript."
+type: software
+title: "HQKM Reproducibility Package: Budgeted Quantum-Kernel Acquisition"
+abstract: "Code, configurations, tests, and result artifacts for a leakage-controlled cost-benefit benchmark of hybrid quantum-classical kernel acquisition."
+authors:
+  - family-names: "REPLACE_WITH_FAMILY_NAME"
+    given-names: "REPLACE_WITH_GIVEN_NAME"
+    affiliation: "REPLACE_WITH_AFFILIATION"
+version: 1.0.0
+date-released: 2026-09-07
+license: MIT
+repository-code: "https://github.com/REPLACE_WITH_OWNER/REPLACE_WITH_REPOSITORY"
+keywords:
+  - quantum machine learning
+  - quantum kernels
+  - multiple kernel learning
+  - Nystrom approximation
+  - reproducibility
+preferred-citation:
+  type: article
+  title: "Can Hybrid Quantum-Classical Algorithms Accelerate Machine-Learning Tasks? A Cost-Benefit Benchmark of Budgeted Quantum Kernel Acquisition"
+  authors:
+    - family-names: "REPLACE_WITH_FAMILY_NAME"
+      given-names: "REPLACE_WITH_GIVEN_NAME"
+      affiliation: "REPLACE_WITH_AFFILIATION"
+  year: 2026
+  status: in-preparation
